@@ -14,5 +14,5 @@
   注意事项：[Attention:]
        如果需要在其他地方转载或发布，请给您的发布项目注明这个开源项目的来源。[If you need to reprint or publish in other places, please indicate the source of this open source project to your release project.]
 
-如果你想要和我共同参与音效的录制与创作，可以联系我的邮箱[ssssakura@foxmail.com] 来进行讨论，我可以接受EN|JP|CN三种语言，但EN我可能需要借助翻译工具
-If you want to participate in the recording and creation of sound effects with me, you can contact my email[ ssssakura@foxmail.com ]For discussion, I can accept three languages of English|Japanese|Chinese, but I may need to use translation tools to exchange by English.
+如果你想要和我共同参与音效的录制与创作，可以联系我的邮箱-ssssakura@foxmail.com来进行讨论，我可以接受EN|JP|CN三种语言，但EN我可能需要借助翻译工具
+If you want to participate in the recording and creation of sound effects with me, you can contact my email-(ssssakura@foxmail.com)For discussion, I can accept three languages of English|Japanese|Chinese, but I may need to use translation tools to exchange by English.
