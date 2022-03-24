@@ -1,4 +1,4 @@
-# KuGou-Snake-Sound
+# KuGou-Snake- Sound effect
 对音效的开源：
 这是我于2020年11月份传至KuGou Music的入选环境音效脉冲样例，现决定向公众开放来授权进行多元化创作。
 这是音效的试用链接（需要预先安装KuGou Music客户端—即酷狗音乐）[This is the  Sound effect about this project. （You should used KuGou Music to experience it.）]
