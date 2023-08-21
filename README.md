@@ -13,7 +13,9 @@
        ↑当然如果你需要使用并修改我的样本并上传至这个开放平台，你需要在自己的作品详情中标注我[Sakura]为作品合作者。
        
   注意事项：[Attention:]
-       如果需要在其他地方转载或发布，请给您的发布项目注明这个开源项目位于KuGou Music的作者（Sakura）。[If you need to reprint or publish in other places, please indicate the source of this open source project to your release project.]
+       如果需要在其他地方转载或发布，请给您的发布项目注明这个开源项目位于KuGou Music的作者（Sakura）。[If you need to reprint or publish in other places, please indicate the source of this open source project to your release project.-@sakura]
 
 如果你想要和我共同参与音效的录制与创作，可以联系我的邮箱-ssssakura@foxmail.com来进行讨论，我可以接受EN|JP|CN三种语言，但EN我可能需要借助翻译工具
 If you want to participate in the recording and creation of sound effects with me, you can contact my email-(ssssakura@foxmail.com)For discussion, I can accept three languages of English|Japanese|Chinese, but may I need to use translate tools to exchange by English.
+
+◎这是一个非盈利项目，我不会从中收取或获得任何利润，如果你从任何地方发现这是一个收费项目，请立即退款且通过邮箱告知我。
